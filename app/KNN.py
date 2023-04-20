@@ -9,7 +9,7 @@ def dis(x, y, X, Y):
     return dis
 
 
-                    #auta                                                                                                       # busy                                                                                                     #track
+                    #auta                                                                                                       # busi                                                                                                     #track
 data = np.array([[110, 55, "auto", None], [113, 68, "auto", None], [119, 67, "auto", None], [119, 60, "auto", None], [139, 70, "auto", None], [130, 81, "auto", None], [146, 90, "bus", None], [152, 88, "bus", None], [162, 95, "bus", None], [144, 91, "bus", None], [158, 83, "bus", None], [167, 93, "bus", None], [175, 99, "track", None], [172, 95, "track", None], [180, 95, "track", None], [182, 97, "track", None], [170, 94, "track", None]])
 
 
